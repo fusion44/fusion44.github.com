@@ -17,14 +17,14 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"main.dart.js": "363ff8d4a733ec05fa8babfa76766531",
+"main.dart.js": "ee6629abd9c98fa8bedfdb6b4aedcf70",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"index.html": "4a8dcc6098d1131266dd65b1ae4c05df",
-"/": "4a8dcc6098d1131266dd65b1ae4c05df",
+"index.html": "24173a37ed9561f4005c9b74aae6a356",
+"/": "24173a37ed9561f4005c9b74aae6a356",
 "manifest.json": "6a0184c47313412dcd0227fd05387a35"
 };
 
